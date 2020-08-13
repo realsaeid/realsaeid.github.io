@@ -1,17 +1,20 @@
 
 
 
-Text can be bold, italic, or strikethrough.
-
-Link to another page.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-Header 2
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y</title>
+    <link>https://orlov.it/</link>
+    <description>Recent content on Y</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://orlov.it/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
 
     This is a blockquote following a header.
 
