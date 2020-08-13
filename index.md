@@ -1,5 +1,6 @@
 
 
+
 Text can be bold, italic, or strikethrough.
 
 Link to another page.
@@ -18,22 +19,11 @@ Header 2
 
 Header 3
 
-1
-2
-3
-4
-5
-
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-
-1
-2
-3
-4
 
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
@@ -106,13 +96,7 @@ Birthplace
 Color
     Green
 
-1
-
-
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-
-1
 
 The final element.
 
-pages-themes maintains Time Machine theme
