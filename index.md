@@ -1,98 +1,56 @@
 
 
 
-Header 3
-
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 
-مهارت ها
+مهارت ها### Skills Highlights
 
-   + بستر های نرم افزاری تلفن همراه و فناوری های cross-platform (Android ، Flutter)
-+ زبانهای برنامه نویسی (جاوا ، کوتلین ، دارت)
-+ محیط توسعه یکپارچه (استودیوی اندرویدی ، کد VS ، IntelliJ)
-+ الگوهای طراحی Android (MVP، MVVM، MVI)
-+ مؤلفه های معماری اندروید
-+ الگوهای طراحی فلوتر (بلوک ، ارائه دهنده ، معماری پاک)
-+ پسوندهای واکنشی (RxJava، RxAndroid، RxKotlin، RxDart)
-+ چابک / خراش / کانبان
-+ توسعه محور تست (تست Junit ، آزمون یکپارچه ، آزمون UI)
-+ بانک اطلاعاتی و ORM (Sqlite ، پایداری اتاق ، قلمرو)
-+ خدمات Google (نقشه ، مکان ، Admob ، AdScense)
-+ خدمات Firebase (پیام رسانی ابر ، پیام رسانی درون برنامه ای ، Firestore ، تجزیه و تحلیل ، رویدادها ، Crashlytics ، بانک اطلاعاتی)
-+ ادغام مداوم و تحویل / تحویل مداوم (CI / CD)
+---
+
++ Mobile platforms and cross-platform technologies (Android, Flutter)
++ Programming languages ​​(Java, Kotlin, Dart)
++ Integrated development environment (Android Studio, VS code, IntelliJ)
++ Android design templates (MVP, MVVM, MVI)
++ Android architecture components
++ Float design patterns (block, provider, clean architecture)
++ Reactive extensions (RxJava, RxAndroid, RxKotlin, RxDart)
++ Agile / Scratch / Kanban
++ Test axis development (Junit test, integrated test, UI test)
++ Database and ORM (Sqlite, room stability, territory)
++ Google Services (Map, Location, Admob, AdScense)
++ Firebase Services (Cloud Messaging, In-App Messaging, Firestore, Analytics, Events, Crashlytics, Database)
++ Continuous integration and delivery / continuous delivery (CI / CD)
 
 
+   ### Work Experiences
 
-Header 5
+---
 
-    This is an ordered list following a header.
-    This is an ordered list following a header.
-    This is an ordered list following a header.
++ Android / Flutter developer
+  - AratelVC - Qom
+  - July 2018 so far
+  - Develop new app features.
+  - Using the best architectural methods and development patterns.
+  - Ensure performance, quality and safety.
+  - Integrate polished user experiences in line with Android design patterns.
+  Collaborate with a multidisciplinary team during product design and development.
+  - Profiles and debugging mobile apps.
+  - Build, maintain and maintain high-performance, reusable and reliable Java and Kotlin code
+  - Clear analytical skills, problem solving techniques, proven design skills and delivery tracking history.
+  
+  ### education
 
-Header 6
-head1 	head two 	three
-ok 	good swedish fish 	nice
-out of stock 	good and plenty 	nice
-ok 	good oreos 	hmm
-ok 	good zoute drop 	yumm
-There’s a horizontal rule below this.
-Here is an unordered list:
+---
 
-    Item foo
-    Item bar
-    Item baz
-    Item zip
++ Non-continuous training course with excellent diploma in computer software
+  - October 2018 to July 2020
+  
++ Bachelor of Computer Software Engineering
+  - Payame Noor University - Qom
+  - October 2019 so far
 
-And an ordered list:
-
-    Item one
-    Item two
-    Item three
-    Item four
-
-And a nested list:
-
-    level 1 item
-        level 2 item
-        level 2 item
-            level 3 item
-            level 3 item
-    level 1 item
-        level 2 item
-        level 2 item
-        level 2 item
-    level 1 item
-        level 2 item
-        level 2 item
-    level 1 item
-
-Small image
-
-Octocat
-Large image
-
-Branching
-Definition lists can be used with HTML syntax.
-
-Name
-    Godzilla
-Born
-    1952
-Birthplace
-    Japan
-Color
-    Green
-
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-
-The final element.
 
