@@ -1,8 +1,5 @@
 
 
-    This is a blockquote following a header.
-
-    When something is important enough, you do it even if the odds are not in your favor.
 
 Header 3
 
@@ -17,11 +14,23 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 
-Header 4
+مهارت ها
 
-    This is an unordered list following a header.
-    This is an unordered list following a header.
-    This is an unordered list following a header.
+   + بستر های نرم افزاری تلفن همراه و فناوری های cross-platform (Android ، Flutter)
++ زبانهای برنامه نویسی (جاوا ، کوتلین ، دارت)
++ محیط توسعه یکپارچه (استودیوی اندرویدی ، کد VS ، IntelliJ)
++ الگوهای طراحی Android (MVP، MVVM، MVI)
++ مؤلفه های معماری اندروید
++ الگوهای طراحی فلوتر (بلوک ، ارائه دهنده ، معماری پاک)
++ پسوندهای واکنشی (RxJava، RxAndroid، RxKotlin، RxDart)
++ چابک / خراش / کانبان
++ توسعه محور تست (تست Junit ، آزمون یکپارچه ، آزمون UI)
++ بانک اطلاعاتی و ORM (Sqlite ، پایداری اتاق ، قلمرو)
++ خدمات Google (نقشه ، مکان ، Admob ، AdScense)
++ خدمات Firebase (پیام رسانی ابر ، پیام رسانی درون برنامه ای ، Firestore ، تجزیه و تحلیل ، رویدادها ، Crashlytics ، بانک اطلاعاتی)
++ ادغام مداوم و تحویل / تحویل مداوم (CI / CD)
+
+
 
 Header 5
 
