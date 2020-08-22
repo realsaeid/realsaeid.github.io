@@ -48,5 +48,6 @@
 + Bachelor of Computer Software Engineering
   - Payame Noor University - Qom
 
+⋃_(n=1)^m▒(X_n∩Y_n ) 
 
 
