@@ -23,7 +23,6 @@
 + Continuous integration and delivery / continuous delivery (CI / CD)
 
 
-   ### Work Experiences
 
 ---
 
