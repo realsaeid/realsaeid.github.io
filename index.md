@@ -46,7 +46,7 @@
   - October 2018 to July 2020
   
 + Bachelor of Computer Software Engineering
-  - Payame Noor University - Qom
+  - University - Qom
 
 
 
